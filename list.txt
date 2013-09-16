@@ -1,0 +1,161 @@
+1 @hand Corporation 302 CS BA/BS Intern US
+2 21CT, Inc. 307 CS BA/BS, MS, PhD FT, Intern US, Perm
+3 Allegro Development 306 CS, Math BA/BS, MS FT, Intern Visa
+4 Amazon 360 CS BA/BS, MS, PhD FT US, Perm, Visa
+5 American Airlines 363 CS BA/BS, MS FT US, Perm, Visa
+6 ** Andreessen Horowitz 353 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+7 Aon Hewitt 317 Actuarial BA/BS FT, Intern US, Perm, Visa
+8 Apex Clearing 109 CS, Math, Physics, Stat BA/BS, MS FT, Intern US, Perm
+9 Apple 114-115 CS BA/BS, MS, PhD Co-op, FT, Intern US, Perm, Visa
+10 Applied Research Laboratories 158 CS, Math, Physics BA/BS, MS, PhD FT, Intern US
+11 ARM, Inc. 358 CS BA/BS Co-op, FT, Intern US, Perm, Visa
+12 Ascend Performance Materials 305 Chem BA/BS Co-op, Intern US, Perm
+13 AT&T 102 CS, Math, Physics, Stat BA/BS, MS FT, Intern US, Perm
+14 athenahealth 113 BioChem, CS, Math, Physics, Public Health, Stat BA/BS, MS, PhD FT US, Perm
+15 Bally Technologies 194 CS BA/BS, MS FT US, Perm, Visa
+16 Bazaarvoice 124 CS BA/BS, MS, PhD Co-op, FT, Intern Visa, US
+17 Blackbaud 357 CS BA/BS Co-op, FT, Intern US
+18 Bloomberg L.P. 178-179 CS, Math, Physics, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+19 * Blue Cross Blue Sheild of Texas 318 Math, Actuarial, Stat BA/BS, MS FT, Intern US, Perm
+20 Box 140 All Majors BA/BS FT, Intern US, Perm, Visa
+21 Buck Consultants 359 All Majors BA/BS FT, Intern US
+22 ** Calxeda 355 CS BA/BS, MS Co-op, FT, Intern US, Perm, Visa
+23 Capital One 103 CS, Math, Actuarial, Stat, Physics, Computational Bio BA/BS, MS FT, Intern US, Perm
+24 CAPSHER Technology 361 CS BA/BS, MS, PhD FT, Intern US
+25 Central Intelligence Agency (CIA) 366 Chem, CS, Math, Actuarial, Stat BA/BS, MS, PhD Co-op, FT, Intern US
+26 CGG 104 CS, Math, Physics BA/BS, MS, PhD FT US, Perm, Visa
+27 CGI 362 CS, Math BA/BS FT, Intern US, Perm
+28 chaione 364 All Majors BA/BS FT US
+29 Charles Schwab 156 CS, Math, Actuarial BA/BS FT US
+30 Chevron Corporation 180 Chem, CS, Math BA/BS FT, Intern Visa, US
+31 Child Family Health International (CFHI) 365 Bio, Medical (Clinical) Lab Science, Public Health, Health Professions BA/BS, Certificate Intern, Job Shadow Other
+32 Cisco 311 CS, Math, Stat BA/BS, MS Co-op, FT, Intern US
+33 Cisco SF 181 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+34 Citadel LLC 193 CS, Math, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+35 Citi Graduate Recruitiment 183 CS, Elements of Computing Certificate, Math BA/BS, MS FT US, Perm, Visa
+36 Cognizant Technology Solutions 107 CS BA/BS FT US, Perm
+37 ConocoPhillips Company 316 CS BA/BS FT, Intern US
+38 Corrections Software 131 CS BA/BS FT, Intern US
+39 ** Counsyl 354 CS, Math, Physics, Physics BA/BS, MS, PhD Co-op, FT, Intern, Job Shadow US, Perm, Visa
+40 Cray, Inc. 142 CS, Math BA/BS, MS, PhD FT, Intern US, Perm
+41 Credera 371 CS BA/BS FT, Intern US
+42 Crowd Torch 176 CS, Math, Actuarial, Stat BA/BS FT, Intern US, Perm, Visa
+43 Dante Consulting 116-117 CS, Math BA/BS, MS FT US, Perm
+44 Dell 157 CS BA/BS, MS FT, Intern US, Perm, Visa
+45 * Deloitte 319 Actuarial BA/BS FT, Intern US, Perm, Visa
+46 Denim Group 370 CS BA/BS, MS, PhD Co-op, FT, Intern US, Perm, Visa
+47 DIRECTV, Inc. 368 CS BA/BS, MS Intern US, Perm, Visa
+48 Dropbox 147 CS, Math BA/BS, MS, PhD FT, Intern US, Perm, Visa
+49 E2open 367 CS BA/BS, Certificate, MS, PhD FT, Intern US, Perm, Visa
+50 eBay, Inc. 128 CS BA/BS, MS Intern US
+51 Emerson Process Management 205 CS BA/BS, MS Co-op, Intern US, Perm
+52 Epic 369 All Majors BA/BS, MS, PhD FT US, Perm, Visa
+53 Epsilon 372 CS BA/BS FT US, Perm
+54 * Ernst & Young 322 Math, Actuarial, Stat BA/BS, MS FT, Intern US, Perm
+55 Esri 132 CS, EnviroSci BA/BS, MS, PhD Co-op, FT, Intern US, Perm, Visa
+56 Etherios 152 CS BA/BS FT US
+57 Evernote 373 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+58 Evonik Corporation 303 Chem BA/BS, MS FT, Intern US, Perm
+59 Expedia, Inc. 192 CS BA/BS, MS Co-op, FT, Intern US, Perm, Visa
+60 ExxonMobil 135-136 CS BA/BS, MS FT, Intern US
+61 Facebook 143 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+62 Factset 191 CS BA/BS, MS FT, Intern US, Perm
+63 ** Factual 356 All Majors BA/BS FT, Intern US
+64 FairfieldNodal 106 Math, Physics BA/BS FT US
+65 * Fidelity Investments 320 Actuarial BA/BS FT US
+66 ** FireEye, Inc. 352 CS BA/BS, MS, PhD Co-op, FT, Intern US, Perm, Visa
+67 * Florida Blue 321 Math, Actuarial, Stat BA/BS, MS, PhD FT, Intern US
+68 Fujitsu Networks Communications 312 CS BA/BS, MS FT US, Perm, Visa
+69 General Motors 161 CS BA/BS FT US
+70 Golden Frog 126 CS, Math BA/BS, Certificate, MS, PhD FT US, Perm
+71 Google 105 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+72 Halliburton 144 CS BA/BS, MS Co-op, Intern US, Perm, Visa
+73 HBK Capital Management 310 CS BA/BS, MS, PhD FT US, Perm, Visa
+74 Hewlett-Packard 186-187 CS, Math BA/BS, MS FT, Intern US, Perm
+75 Home Depot 301 CS BA/BS FT, Intern US, Perm
+76 HomeAway 198 CS BA/BS, MS FT, Intern US, Perm, Visa
+77 Hulu 315 CS BA/BS, MS Co-op, FT, Intern US, Perm, Visa
+78 * Humana 324 All Majors BA/BS, MS FT, Intern US
+79 IBM 100-101 CS BA/BS, MS Co-op, FT, Intern US, Perm
+80 iMirus 138 CS BA/BS FT US, Perm
+81 Indeed, Inc. 155 CS, Math, Physics, Stat BA/BS, MS, PhD Co-op, FT, Intern US, Perm, Visa
+82 Infinera 154 CS, Physics BA/BS, MS, PhD Intern US, Perm, Visa
+83 Intel 130 Chem, CS, Math, Physics, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+84 IXL Learning 190 CS, Math, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+85 Jet Propulsion Laboratories (JPL) 122 CS, Physics BA/BS, MS, PhD Co-op, FT, Intern US, Perm
+86 JPMorgan Chase 148 BioChem, Bio, Chem, CS, Math, Actuarial, Physics, Stat, Computational Bio BA/BS FT, Intern US
+87 Juniper 110 CS, Math BA/BS, Certificate, MS, PhD Co-op, FT, Intern US, Perm, Visa
+88 JWT 166 CS, Math, Stat BA/BS FT, Intern US
+89 Keste, LLC 185 CS BA/BS, MS FT, Intern US, Perm, Visa
+90 Laserfiche 162 CS, Math, Physics BA/BS, MS FT, Intern US, Perm, Visa
+91 * Liberty Mutual Insurance 325 Math, Actuarial BA/BS FT, Intern US, Perm
+92 LinkedIn 300 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+93 Lockheed Martin 172 CS, Math, Physics BA/BS, MS FT, Intern US, Perm
+94 Lowe's Companies, Inc. 338 CS BA/BS, MS FT, Intern US, Perm
+95 Lymba Corporation 339 CS BA/BS, MS FT Visa, US
+96 MaxPoint 167 CS BA/BS, MS FT, Intern US, Perm
+97 McKesson Corporation 139 CS BA/BS FT, Intern US, Perm
+98 MediaFire 168 All Majors BA/BS, Certificate, MS, PhD FT US
+99 * Mercer 327 Math, Actuarial, Stat BA/BS FT, Intern US, Perm
+100 Microsoft 177 CS, Math BA/BS, MS, PhD FT, Intern US, Perm, Visa
+101 Morningstar 159 CS, Math BA/BS FT Other, US
+102 National Instruments 196-197 CS, Physics BA/BS, MS FT, Intern US, Perm, Visa
+103 Occidental Petroleum Corporation 188 CS BA/BS, MS Intern US, Perm
+104 O'Connor's Online 340 CS BA/BS FT, Intern US, Perm, Visa
+105 Open GeoPhysical, Inc. 341 CS BA/BS, MS, PhD FT US, Perm, Visa
+106 OpenX 342 CS MS FT US
+107 Optaros 169 All Majors BA/BS FT, Intern US
+108 Optimal Blue 145 All Majors BA/BS, Certificate, MS, PhD FT US
+109 Optiver 137 CS, Math, Actuarial, Physics, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+110 Oracle 163 CS, Math, Physics, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+111 Oracle 164 All Majors BA/BS FT US
+112 Orbitz Worldwide 343 CS BA/BS, MS FT US, Perm, Visa
+113 Pariveda Solutions 344 CS, Math BA/BS FT, Intern, Job Shadow US, Perm
+114 Pearson 345 CS BA/BS, MS FT US, Perm, Visa
+115 Pocket Gems 170 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+116 Praetorian 308 CS BA/BS, MS Co-op, FT, Intern US
+117 PricewaterhouseCoopers 141 CS, Math, Actuarial, Stat BA/BS FT, Intern US, Perm, Visa
+118 Procter & Gamble 118-119 BioChem, Bio, Chem, CS, EnviroSci, Math, Medical (Clinical) Lab Science, Nutri/Diet, Physics, Computational Bio BA/BS, MS, PhD Co-op, FT, Intern US
+119 ** PROS 351 CS, Math, Stat BA/BS, MS, PhD FT US, Perm
+120 Qualcomm 201 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+121 Quantlab 200 CS BA/BS FT, Intern US
+122 Quorum Business Solutions, Inc. 202 CS, Math BA/BS, MS FT US
+123 Rackspace 108 CS, Math, Physics, Stat BA/BS, Certificate, MS, PhD FT, Intern, Job Shadow US, Perm, Visa
+124 Raytheon 146 CS, Math, Physics BA/BS, MS Co-op, FT, Intern US
+125 Reddwerks 129 CS, Math, Physics BA/BS, MS FT, Intern US, Perm, Visa
+126 ** Redfin 350 CS, Math, Actuarial, Stat BA/BS, MS FT, Intern US, Perm, Visa
+127 ** RetailMeNot, Inc. 349 CS BA/BS, MS, PhD FT, Intern US, Perm
+128 RGM Advisors, LLC 99 CS, Math, Physics, Stat BA/BS, MS, PhD FT, Intern US, Perm, Visa
+129 * Rudd & Wisdom 326 Math, Actuarial, Stat BA/BS FT, Intern US, Perm
+130 ** SailPoint 348 CS BA/BS FT US
+131 Salesforce.com 309 CS BA/BS, Certificate, MS, PhD Co-op, FT, Intern US, Perm, Visa
+132 Sandia National Labs 153 Chem, CS, EnviroSci, Math, Physics, Stat BA/BS, MS, PhD FT, Intern US
+133 Schlumberger 171 CS BA/BS, MS, PhD FT, Intern US, Perm
+134 ShoreTel 199 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+135 ** Smartbridge, LLC 347 CS, Math BA/BS, MS, PhD Co-op, FT, Part-time US, Perm, Visa
+136 SnapStream Media, Inc. 204 CS BA/BS FT, Intern US, Perm
+137 Sogeti USA 160 CS BA/BS FT US, Perm
+138 Spectra Energy 304 CS BA/BS FT, Intern US
+139 Spredfast, Inc. 203 CS BA/BS Intern US, Perm
+140 Square, Inc. 151 CS, Math BA/BS, MS Co-op, FT, Intern US, Perm, Visa
+141 T3 175 All Majors BA/BS, MS Intern US, Perm, Visa
+142 Tableau Software 125 CS, Math, Actuarial, Physics, Stat BA/BS, Certificate, MS, PhD FT, Intern US, Perm, Visa
+144 Telogis 120-121 CS BA/BS, MS FT, Intern US, Perm
+143 Target 127 All Majors BA/BS, MS FT, Intern US, Perm
+145 Texas AgriLife Extension Service 174 HDFS, Nutri/Diet MS FT US
+146 Texas Instruments 133-134 CS BA/BS, MS FT, Intern US, Perm
+147 The Blood & Tissue Center of Central Texas 123 Bio, Medical (Clinical) Lab Science, Public Health BA/BS Part-time US
+148 The Boeing Company 182 CS BA/BS, MS FT, Intern US, Perm
+149 The University of Texas at Austin: Information Technology Services 313 All Majors BA/BS, Certificate, MS, PhD Co-op, FT, Intern, Part-timeUS, Perm, Other
+150 * Towers Watson 328 CS, Math, Actuarial, Stat BA/BS, MS FT, Intern US, Perm, Visa
+151 Union Pacific Railroad 149-150 CS BA/BS Co-op, FT, Intern US, Perm, Visa
+152 United States Navy Officer Program 184 All Majors BA/BS, MS, PhD FT US
+153 URS Corporation 314 Astro, BioChem, Bio, Chem, EnviroSci, Marine Science, Math BA/BS, MS, PhD FT US, Perm, Visa
+154 * USAA 323 CS, Math BA/BS, MS FT, Intern US, Perm
+155 UT Health Science Center at Tyler 173 BioChem, Bio, Chem, Medical (Clinical) Lab Science, Health Professions BA/BS, MS FT US, Perm
+156 VMware 195 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+157 Workday 112 CS, Actuarial, Stat, Physics, Math BA/BS, MS Co-op, FT, Intern US, Perm
+158 Yahoo! 165 CS BA/BS, MS, PhD FT, Intern US, Perm, Visa
+159 Yelp, Inc. 111 CS BA/BS, MS, PhD Co-op, FT, Intern US, Perm, Visa
+160 Yes Prep Public Schools 189 All Majors BA/BS, MS, PhD FT US, Perm, Visa
+161 ** Yodle 346 All Majors Bachelor's FT Other
